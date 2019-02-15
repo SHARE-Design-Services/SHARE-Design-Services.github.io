@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.H.A.R.E. Design Services</title>
+    <link>http://sharedesignservices.com/</link>
+    <description>Recent content on S.H.A.R.E. Design Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Jan 2019 19:14:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://sharedesignservices.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://sharedesignservices.com/about/</link>
+      <pubDate>Thu, 31 Jan 2019 19:14:01 +0530</pubDate>
+      
+      <guid>http://sharedesignservices.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://sharedesignservices.com/contact/</link>
+      <pubDate>Thu, 31 Jan 2019 19:08:35 +0530</pubDate>
+      
+      <guid>http://sharedesignservices.com/contact/</guid>
+      <description>Harsha Vardhan Naidu Phone: +91 9494113636 Email: info@sharedesignservices.com  </description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://sharedesignservices.com/hello/</link>
+      <pubDate>Thu, 31 Jan 2019 18:56:06 +0530</pubDate>
+      
+      <guid>http://sharedesignservices.com/hello/</guid>
+      <description> Featues </description>
+    </item>
+    
+  </channel>
+</rss>
